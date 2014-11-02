@@ -1,0 +1,6 @@
+Q1 5
+Q4 10
+C23AGING 10 1
+Cores 1 1 1 1
+Optimization 1
+duration 10000
